@@ -22,7 +22,7 @@ Certifications
 
 📫 Let's Connect!  
 🔗 GitHub: gurmej2004-gs  
-🔗 LinkedIn: gurmej-singh  
+🔗 LinkedIn: https://www.linkedin.com/in/gurmej-singh-764821294/  
 📧 Email: singhgurmej4884@gmail.com  
 
 💡 Open to collaboration on exciting projects! 🚀

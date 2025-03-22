@@ -1,6 +1,7 @@
 👋 Hi, I'm Gurmej Singh.    
 🚀 Aspiring Software Developer | Cloud Computing Enthusiast | ML Practitioner.    
-I'm a Computer Science student at Graphic Era Hill University, Dehradun (2022–2026) with a passion for building innovative projects and exploring cloud technologies. I enjoy working on machine learning models, web applications, and automation scripts.    
+    I'm a Computer Science student at Graphic Era Hill University, Dehradun (2022–2026) with a passion for building innovative projects and exploring cloud technologies. I enjoy 
+    working on machine learning models, web applications, and automation scripts.    
 
 🔥 What I Do  
 💻 Coding Enthusiast: Proficient in C, C++, Python, Java  

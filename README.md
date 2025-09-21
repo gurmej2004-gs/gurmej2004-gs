@@ -1,28 +1,23 @@
-👋 Hi, I'm Gurmej Singh.    
-🚀 Aspiring Software Developer | Cloud Computing Enthusiast | ML Practitioner.    
-    I'm a Computer Science student at Graphic Era Hill University, Dehradun (2022–2026) with a passion for building innovative projects and exploring cloud technologies. I enjoy 
-    working on machine learning models, web applications, and automation scripts.    
+<!-- Profile Header -->
+[![icon](https://github.com/gurmej2004-gs/gurmej2004-gs/assets/your-image-id)](https://github.com/gurmej2004-gs)
 
-🔥 What I Do  
-💻 Coding Enthusiast: Proficient in C, C++, Python, Java  
-📊 Data & ML: Hands-on with NumPy, Pandas, Matplotlib, TensorFlow  
-🌐 Web Development: Experience with Flask, PHP, MySQL, HTML, CSS, JavaScript  
-☁️ Cloud Computing: Certified in OCI Foundation & Cloud Computing Fundamentals  
-📚 DSA & OOP: Strong foundation in Data Structures, Algorithms, and OS  
 
-Certifications  
-✅ OCI Foundation Associate  
-✅ Fundamentals of Cloud Computing  
 
-🏗 Projects I've Built  
-🔹 Speech Stammering Analysis – Developed a real-time speech visualization tool using Python, Matplotlib.  
-🔹 University Chatbot – Built a chatbot for university queries using Flask, JSON, NLP.  
-🔹 Addiction Prediction Model – Implemented ML models for social & personal factor-based predictions.  
-🔹 Library Management System – Created a MySQL & PHP-based system with role-based authentication.  
+# Hi, my name is Gurmej Singh <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
+I am a Software Engineering Undergrad | Problem Solver | Skilled in Python, Java & C++ | AI/ML Enthusiast | Passionate about Data Analysis & Business Development | Exploring GenAI & Retail Tech | Always Learning & Building.
 
-📫 Let's Connect!  
-🔗 GitHub: gurmej2004-gs  
-🔗 LinkedIn: https://www.linkedin.com/in/gurmej-singh-764821294/  
-📧 Email: singhgurmej4884@gmail.com  
+🖥️ Software Engineering Undergrad | 🤖 AI/ML Enthusiast | ☁️ Cloud Computing Explorer | 📊 Data Analysis & Business Development | 🛍️ Exploring GenAI & Retail Tech
+<br>
 
-💡 Open to collaboration on exciting projects! 🚀
+<br>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=gurmej2004-gs&style=for-the-badge&color=blueviolet" alt="gurmej2004-gs" />
+  </p>
+
+- 🔭 I’m currently learning advanced **Machine Learning & Cloud Computing** ~  
+- 👨‍💻 Passionate about building **software solutions, ML models, and automation scripts** ~  
+- 💬 Ask me about **Python, Java, C++, Flask, or Data Structures & Algorithms** ~  
+- ⚡ Fact: I enjoy solving **complex problems** and creating **data-driven solutions** ~  
+- 📫 Reach me at: `singhgurmej4884@gmail.com` 👏🏻 ~  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gurmej-singh-764821294/) or explore my work on [GitHub](https://github.com/gurmej2004-gs) ~  
+<br>
